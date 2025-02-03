@@ -1,6 +1,6 @@
 # RefineThenCalibrate-Vision
 
-Code to run the computer vision benchmark in the paper "Rethinking Early Stopping: Refine, Then Calibrate".
+Code to run the computer vision benchmark in the paper "Rethinking Early Stopping: Refine, Then Calibrate" https://arxiv.org/abs/2501.19195.
 
 ## Files
 - `main.py`: Launch runs and log results.
